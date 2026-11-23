@@ -1,6 +1,9 @@
 # Insta-Info-Bot
 
-Insta-Info-Bot is a Telegram bot that allows users to fetch detailed information about any public Instagram profile. By simply sending an Instagram username, users can receive a variety of profile details, including bio, follower count, and profile picture.
+> [!WARNING]
+> This project is discontinued. Please use the latest [InstaGhost](https://github.com/Anon4You/InstaGhost) tool instead.
+
+Insta-Info-Bot is a Telegram bot that allows users to fetch detailed information about any public Instagram profile. By simply sending an Instagram username, users can receive a variety of profile details.
 
 ## Table of Contents
 
